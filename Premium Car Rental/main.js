@@ -1,5 +1,3 @@
-import ScrollReveal from 'scrollreveal';
-
 const menuBtn = document.querySelector(".nav-menu-btn");
 const navLinks = document.querySelector(".nav-links");
 const menuBtnIcon = document.querySelector(".nav-menu-btn i");
